@@ -1,11 +1,11 @@
 package testing;
 
-/* Uncomment the below code to test your application
+
 
 import static org.junit.Assert.*;
-import org.junit.Test;
+import org.junit.*;
 
-import model.User;
+import model.*;
 public class TestUser {
 	User user = new User("John","63254257893",22,170,62,"American");
 	
@@ -36,4 +36,4 @@ public class TestUser {
 		}
 	}
 }
-*/
+
